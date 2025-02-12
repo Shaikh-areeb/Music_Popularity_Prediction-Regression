@@ -25,14 +25,14 @@ The dataset contains various attributes related to individual music tracks, incl
 
 The following are the most influential features identified for predicting music popularity:
 
-Energy: 17.532590
-Loudness: 14.171994
-Danceability: 13.737252
-Liveness: 12.254913
-Speechiness: 11.469206
-Tempo: 11.287009
-Explicit: 9.996894
-Instrumentalness: 9.550142
+- Energy: 17.532590
+- Loudness: 14.171994
+- Danceability: 13.737252
+- Liveness: 12.254913
+- Speechiness: 11.469206
+- Tempo: 11.287009
+- Explicit: 9.996894
+- Instrumentalness: 9.550142
 
 ### Approach
 
